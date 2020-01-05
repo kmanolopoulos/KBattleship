@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KBattleship</string>
+    <string name="logo_description">Battleship logo</string>
+    <string name="find_opponent">Find opponent</string>
+    <string name="show_statistics">Show statistics</string>
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+    <string name="board_button_description">Button</string>
+</resources>
